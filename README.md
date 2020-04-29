@@ -3,6 +3,8 @@
 This repository contains a script that reshapes the data available in the following link : 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+The script is named "run_analysis.R"
+
 
 The script follows the following steps :
 
