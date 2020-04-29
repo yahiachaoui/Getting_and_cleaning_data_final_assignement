@@ -1,5 +1,5 @@
 #Setting the working directory and opening useful libraries
-setwd("/Users/yahiachaoui/Desktop/datasciencecoursera/UCI HAR Dataset")
+setwd("./UCI HAR Dataset")
 library(reshape)
 library(dplyr)
 
