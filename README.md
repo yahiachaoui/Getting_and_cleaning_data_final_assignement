@@ -3,6 +3,10 @@
 This repository contains a script that reshapes the data available in the following link : 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+Results of the script are : 
+- the "data.csv" file that contains the input data as a tidy set
+- the 'dataMean.csv" file that contains the same data averaged by subject and activity
+
 The script is named "run_analysis.R"
 
 
@@ -31,5 +35,3 @@ The script follows the following steps :
 
 11.Creating a second data set ordered by subject and by activity with mean values to summarize the data
 
-
-Outputs are the "data" and "dataMean" tables.
